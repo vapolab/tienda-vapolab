@@ -292,7 +292,7 @@
             cart.forEach(item => {
                 message += `- ${item.product} (${item.flavor})%0A`;
             });
-            const whatsappURL = `https://wa.me/549XXXXXXXXXX?text=${message}`; // Reemplaza XXXXXXXXXX con el número de WhatsApp
+            const whatsappURL = `https://wa.me/543571510327?text=${message}`; // Reemplaza XXXXXXXXXX con el número de WhatsApp
             window.open(whatsappURL, '_blank');
         }
 
